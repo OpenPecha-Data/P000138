@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གཅོད་ཀྱི་གཞུང་འགྲེལ་ཟག་མེད་སྦྲང་རྩི་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། བྲམ་ཟེ་ཨཱརྻ་དེ་བ།
+  sku: LS-CHD-07-02
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: Uncontaminated Honey:The Commentary on the Text of Chod, the Upadeśa of the
+      Prajñāpāramitā
+    bo: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གཅོད་ཀྱི་གཞུང་འགྲེལ་ཟག་མེད་སྦྲང་རྩི་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Chod Series–  Book 7-2
+    bo: གཅོད་ཡུལ།–  དེབ། ༧-༢
+  author:
+    en: Aryadeva
+    bo: བྲམ་ཟེ་ཨཱརྻ་དེ་བ།
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-CHD-07-02
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-CHD-07-02.epub
+  description:
+    en: ''
+    bo: ''
