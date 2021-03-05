@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000138
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གཅོད་ཀྱི་གཞུང་འགྲེལ་ཟག་མེད་སྦྲང་རྩི་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། བྲམ་ཟེ་ཨཱརྻ་དེ་བ།
-  sku: LS-CHD-07-02
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: LS-CHD-07-02
 web_metadata:
   title:
     en: Uncontaminated Honey:The Commentary on the Text of Chod, the Upadeśa of the
